@@ -6,4 +6,4 @@ feed:
     limit: 10
 ---
 
-Do you want to try unconventional way to explore orientational data? Instal from [PyPI](https://pypi.org/project/apsg) or check latest version of Python module [APSG](https://github.com/ondrolexa/apsg).
+Do you want to try unconventional way to explore orientational data? Install from [PyPI](https://pypi.org/project/apsg) or check latest version of Python module [APSG](https://github.com/ondrolexa/apsg).
