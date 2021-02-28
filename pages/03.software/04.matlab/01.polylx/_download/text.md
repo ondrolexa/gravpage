@@ -1,15 +1,17 @@
 ---
 title: Download
+media_order: 'polylx-r26.zip,polylx-r31.zip,polylx-r32.zip,polylx_online_install.m'
 image_align: left
 ---
 
 # Download PolyLX
-  * [Latest development version of the PolyLX Toolbox](http://petrol.natur.cuni.cz/~ondro/oldweb/_media/polylx:polylx.zip)
+  * [Latest development version of the PolyLX Toolbox](polylx-r32.zip)
   * Frozen version (Nov 2015) before substantial code refactoring.
-    * [R3.1 version of the PolyLX Toolbox](http://petrol.natur.cuni.cz/~ondro/oldweb/_media/polylx:r31:polylx.zip)
+    * [R3.1 version of the PolyLX Toolbox](polylx-r31.zip)
+  * [Here](polylx-r26.zip) you can download very old R2.6 version of the PolyLX Toolbox, a piece of history…
 
 ### Install script
-For simple install download [polylx_online_install.m](http://petrol.natur.cuni.cz/~ondro/oldweb/_media/polylx:polylx_online_install.m) script and execute it in MATLAB. This script will download latest version of PolyLX and install it to directory selected by user. No more settings are needed. LOL
+For simple install download [polylx_online_install.m](polylx_online_install.m) script and execute it in MATLAB. This script will download latest version of PolyLX and install it to directory selected by user. No more settings are needed. LOL
 
 ### Copyright
 PolyLX Toolbox is Copyright (C) 2000-2017 by Ondrej Lexa.
