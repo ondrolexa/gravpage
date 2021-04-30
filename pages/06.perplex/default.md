@@ -18,7 +18,8 @@ cache_enable: false
 
 ## Perple_X sources
 
-* Available upon request from James Connolly [james.connolly@erdw.ethz.ch](mailto:james.connolly@erdw.ethz.ch)
+* [Stable version](perplex-sources-stable.zip)
+* [Latest development version](perplex-sources-latest.zip) 
 
 #### stable version compile output
 ```
