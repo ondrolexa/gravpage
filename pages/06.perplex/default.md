@@ -18,8 +18,8 @@ cache_enable: false
 
 ## Perple_X sources
 
-* [Stable version](perplex-sources-stable.zip)
-* [Latest development version](perplex-sources-latest.zip) 
+* [Stable version](/perplex-sources-stable.zip)
+* [Latest development version](/perplex-sources-latest.zip) 
 
 #### stable version compile output
 ```
